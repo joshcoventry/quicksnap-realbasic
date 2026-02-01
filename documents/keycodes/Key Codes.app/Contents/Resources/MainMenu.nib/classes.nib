@@ -1,0 +1,13 @@
+{
+    IBClasses = (
+        {
+            ACTIONS = {toggleVerbose = id; }; 
+            CLASS = Controller; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {log = id; logPanel = id; verboseSwitch = id; }; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }
+    ); 
+    IBVersion = 1; 
+}
