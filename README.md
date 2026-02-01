@@ -12,6 +12,7 @@ This repo contains:
 - Original source code for its unreleased precursor FreeSnap
 - Builds of QuickSnap (versions 1.1 and 1.2) for Mac OS X 10.5 Leopard
 - Original artwork, documentation, press releases and support documentation material
+- The code that generated serial numbers for QuickSnap
 
 # Requirements
 
