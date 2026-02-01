@@ -5,7 +5,7 @@ This app, originally shareware and released by me to the Mac market in 2007, is 
 
 I have been rewriting it in Swift for current macOS since 2018: http://github.com/joshcoventry/quicksnap/
 
-# Summary
+## Summary
 
 This repo contains:
 - REALBasic source code for Quicksnap (not tested in Xojo, likely would need a lot of work, or may not work at all...)
@@ -14,11 +14,11 @@ This repo contains:
 - Original artwork, documentation, press releases and support documentation material
 - The code that generated serial numbers for QuickSnap
 
-# Requirements
+## Requirements
 
 - An old copy of REALBasic (from 2007 or so) in order to open the project file
 - A Mac running Mac OS X Leopard or Snow Leopard to build and run the project
 
-# Licence
+## Licence
 
 MIT Licence. Please do anything you want with any files in this repo.
